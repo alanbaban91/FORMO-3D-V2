@@ -1,0 +1,9 @@
+{
+  "type": "stool",
+  "width": 0.52,
+  "depth": 0.52,
+  "height": 0.72,
+  "top_thickness": 0.055,
+  "primary_color": [0.45, 0.22, 0.09],
+  "accent_color": [0.055, 0.065, 0.08]
+}

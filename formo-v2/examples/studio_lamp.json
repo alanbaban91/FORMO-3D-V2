@@ -1,0 +1,8 @@
+{
+  "type": "studio_lamp",
+  "radius_m": 0.12,
+  "height_m": 0.62,
+  "detail_level": "high",
+  "render_samples": 48,
+  "render_resolution": 1024
+}

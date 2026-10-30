@@ -1,0 +1,8 @@
+{
+  "type": "precision_lens",
+  "radius_m": 0.055,
+  "height_m": 0.12,
+  "detail_level": "high",
+  "render_samples": 48,
+  "render_resolution": 1024
+}

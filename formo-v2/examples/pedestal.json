@@ -1,0 +1,9 @@
+{
+  "type": "pedestal",
+  "width": 0.6,
+  "depth": 0.6,
+  "height": 1.1,
+  "top_thickness": 0.06,
+  "primary_color": [0.76, 0.74, 0.69],
+  "accent_color": [0.23, 0.23, 0.24]
+}
